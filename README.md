@@ -1,5 +1,5 @@
 ```markdown
-# SKYENRD Bot - Seu Bot no WhatsApp
+# SKYENRD Bot - BOT TESTE IPTV E NET
 
 O SKYENRD Bot é um bot versátil e útil para o WhatsApp, projetado para oferecer uma variedade de recursos úteis e personalizáveis. Este README fornece informações sobre como configurar e usar o bot.
 
