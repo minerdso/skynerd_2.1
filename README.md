@@ -1,6 +1,9 @@
 ```markdown
 # SKYENRD Bot - BOT TESTE IPTV E NET
 
+
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFsdjZvemdwM3g1YnpocWRlMjhiZ2ZtZGt2MWdpaDJqemg4OTZtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bjdLWuqFYsnYgApdEG/giphy.gif
+
 O SKYENRD Bot é um bot versátil e útil para o WhatsApp, projetado para oferecer uma variedade de recursos úteis e personalizáveis. Este README fornece informações sobre como configurar e usar o bot.
 
 ## Recursos Principais
