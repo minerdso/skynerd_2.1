@@ -55,4 +55,3 @@ O SKYENRD Bot é um bot versátil e útil para o WhatsApp, projetado para oferec
 Para obter mais informações, entre em contato com o desenvolvedor em (https://wa.me/5511949356144) ou telegram @batmonn
 ```
 
-Lembre-se de personalizar as seções com informações relevantes para o seu bot, como os recursos específicos, instruções de instalação e configuração, comandos disponíveis, informações de contato e a licença que deseja aplicar ao seu projeto. Certifique-se de incluir os comandos reais do seu bot e qualquer outra informação relevante.
